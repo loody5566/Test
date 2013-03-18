@@ -1,1 +1,2 @@
 master text add by client!
+master text add by server!
